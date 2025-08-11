@@ -10,7 +10,7 @@ I apologize as some repos may not be documented correctly.
 
 ---
 
-## 📂 Repository 1 — *Burlignton - Address Processing & Data Management Toolkit*  
+## 📂 Repository 1 — * Address Processing & Data Management Toolkit*  
 **Purpose:** Comprehensive suite of Python tools for processing Canadian postal addresses, checking Bell Internet service availability, and managing geographic data with Canada Post API integration and competitive fiber analysis.  
 **Tech stack:** Python, Selenium, Pandas, Requests, undetected-chromedriver, Canada Post API  
 **Where to start:**  
