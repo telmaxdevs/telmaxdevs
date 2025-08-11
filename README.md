@@ -69,6 +69,4 @@ I apologize as some repos may not be documented correctly.
 - If something feels broken, check the commit history — you might find answers there.  
 
 ---
-## FINAL WORDS
-- Good luck, dont be afraid to say no :) - Erin Tomorri 2025
-  
+
