@@ -1,6 +1,6 @@
 # Welcome 👋  
 
-Hi there — and welcome!
+Hi there — and welcome
 
 *IMPORTANT*: I recommend getting github copilot, or cursor to help you understand and finish/fix anything that needs fixing, there are ALOT of redundant stuff. 
 
